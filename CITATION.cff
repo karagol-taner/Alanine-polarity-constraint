@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the paper and this repository."
+title: "A non-transmembrane control reveals a globally permissive membrane environment in which alanine positions carry the sole distinctive polarity constraint"
+authors:
+  - family-names: "Karagöl"
+    given-names: "Taner"
+    orcid: "https://orcid.org/0009-0005-1011-7661"
+  - family-names: "Karagöl"
+    given-names: "Alper"
+    orcid: "https://orcid.org/0009-0001-7864-0732"
+year: 2026
+license: MIT
+repository-code: "https://github.com/karagol-taner/Alanine-polarity-constraint"
+references:
+  - type: article
+    title: "Co-evolution of alpha-helical transmembrane protein residues: large-scale variant profiling and complete substitution landscapes"
+    authors:
+      - family-names: "Karagöl"
+        given-names: "Taner"
+      - family-names: "Karagöl"
+        given-names: "Alper"
+      - family-names: "Zhang"
+        given-names: "Shuguang"
+    journal: "Journal of Molecular Evolution"
+    volume: 93
+    issue: 5
+    start: 581
+    end: 599
+    year: 2025
+    doi: "10.1007/s00239-025-10262-8"

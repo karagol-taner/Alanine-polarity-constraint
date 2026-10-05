@@ -1,0 +1,11 @@
+The derived data in data/, results/ and supplementary/ are released under the
+Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+
+These tables are derived from AlphaMissense predictions (Cheng et al. 2023,
+Science 381:eadg7492, doi:10.1126/science.adg7492), which Google DeepMind
+releases under CC BY 4.0, and from UniProt annotations, also CC BY 4.0.
+Attribution to those sources is required alongside attribution to this work.
+
+The code in code/ is licensed separately, under the MIT Licence in LICENSE.

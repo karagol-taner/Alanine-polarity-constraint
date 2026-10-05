@@ -1,0 +1,47 @@
+CONSERVATION-CONTROLLED REANALYSIS, run 2026-10-01 07:21 to 08:54 in Colab
+
+Completed 64 of 66 proteins. P78556 and Q9Y5Q6 (both secreted peptides) produced
+fewer than 5 homologues above 35 percent identity (3 and 1 respectively, from 188 and
+185 usable candidates) and were excluded. Peptide stratum is therefore 23, not 25.
+
+Below ConSurf's reliability floor of 50 homologues: 14 of 64.
+  secreted peptides          5 of 23  (22 percent)
+  membrane-complex subunits  9 of 41  (22 percent)
+The burden is balanced between strata, which is what matters for the control.
+
+============================================================================
+UNADJUSTED
+============================================================================
+all 64:
+  membrane-complex  n=41  median +0.2382  positive 39/41  Wilcoxon p = 6.4e-11
+  secreted peptides n=23  median +0.0306  positive 13/23  Wilcoxon p = 0.29
+  between strata    difference +0.2076  Mann-Whitney p = 1.29e-06  Cliff's delta +0.735
+
+above depth floor:
+  membrane-complex  n=32  median +0.2387  positive 30/32  Wilcoxon p = 8.8e-09
+  secreted peptides n=18  median +0.0281  positive 10/18  Wilcoxon p = 0.3
+  between strata    difference +0.2106  Mann-Whitney p = 2.61e-06  Cliff's delta +0.809
+
+uniref50 route only:
+  membrane-complex  n=32  median +0.2385  positive 31/32  Wilcoxon p = 6.5e-09
+  secreted peptides n=13  median +0.0306  positive  8/13  Wilcoxon p = 0.34
+  between strata    difference +0.2078  Mann-Whitney p = 4.23e-05  Cliff's delta +0.788
+
+============================================================================
+CONSERVATION-ADJUSTED
+============================================================================
+all 64:
+  membrane-complex  n=41  median +0.2348  positive 39/41  Wilcoxon p = 9.1e-12
+  secreted peptides n=23  median +0.1067  positive 18/23  Wilcoxon p = 0.00085
+  between strata    difference +0.1281  Mann-Whitney p = 1.44e-05  Cliff's delta +0.659
+
+above depth floor:
+  membrane-complex  n=32  median +0.2495  positive 30/32  Wilcoxon p = 3.3e-09
+  secreted peptides n=18  median +0.1114  positive 15/18  Wilcoxon p = 0.0019
+  between strata    difference +0.1382  Mann-Whitney p = 0.000226  Cliff's delta +0.635
+
+uniref50 route only:
+  membrane-complex  n=32  median +0.2539  positive 31/32  Wilcoxon p = 9.3e-10
+  secreted peptides n=13  median +0.1274  positive 11/13  Wilcoxon p = 0.01
+  between strata    difference +0.1265  Mann-Whitney p = 0.000269  Cliff's delta +0.702
+
