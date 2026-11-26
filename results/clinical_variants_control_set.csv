@@ -1,0 +1,217 @@
+UniProt,Gene,UniProt variant ID,Substitution,Reference residue,Position,Target residue,Clinical classification,Stratum,AlphaMissense score
+P18509,ADCYAP1,VAR_014597,D54G,D,54,G,benign or likely benign,freely secreted peptide,0.0613
+P35318,ADM,VAR_014861,S50R,S,50,R,benign or likely benign,freely secreted peptide,0.2316
+P35318,ADM,VAR_048205,P85R,P,85,R,benign or likely benign,freely secreted peptide,0.0881
+Q53H12,AGK,VAR_027848,V3M,V,3,M,benign or likely benign,soluble subunit of a membrane complex,0.1969
+P25705,ATP5F1A,VAR_048369,A32S,A,32,S,benign or likely benign,soluble subunit of a membrane complex,0.0915
+P25705,ATP5F1A,VAR_088541,R182Q,R,182,Q,uncertain significance,soluble subunit of a membrane complex,0.9988
+P25705,ATP5F1A,VAR_088542,R207H,R,207,H,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9993
+P25705,ATP5F1A,VAR_071982,Y321C,Y,321,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9879
+P25705,ATP5F1A,VAR_069769,R329C,R,329,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9676
+P25705,ATP5F1A,VAR_088543,S346F,S,346,F,uncertain significance,soluble subunit of a membrane complex,0.9999
+P06576,ATP5F1B,VAR_074188,A130V,A,130,V,benign or likely benign,soluble subunit of a membrane complex,0.0986
+P06576,ATP5F1B,VAR_048371,E274Q,E,274,Q,benign or likely benign,soluble subunit of a membrane complex,0.9923
+P06576,ATP5F1B,VAR_091581,T334P,T,334,P,uncertain significance,soluble subunit of a membrane complex,0.9745
+P06576,ATP5F1B,VAR_087864,L335P,L,335,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9997
+P06576,ATP5F1B,VAR_091582,V482A,V,482,A,uncertain significance,soluble subunit of a membrane complex,0.9583
+P30049,ATP5F1D,VAR_081452,P82L,P,82,L,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9273
+P30049,ATP5F1D,VAR_081453,V106G,V,106,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9502
+P56381,ATP5F1E,VAR_066211,Y12C,Y,12,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.981
+P24539,ATP5PB,VAR_013176,T152N,T,152,N,benign or likely benign,soluble subunit of a membrane complex,0.1037
+P24539,ATP5PB,VAR_033534,T152M,T,152,M,benign or likely benign,soluble subunit of a membrane complex,0.0608
+P18859,ATP5PF,VAR_083477,I39T,I,39,T,benign or likely benign,soluble subunit of a membrane complex,0.8323
+P48047,ATP5PO,VAR_011930,K98R,K,98,R,benign or likely benign,soluble subunit of a membrane complex,0.0808
+P38606,ATP6V1A,VAR_080994,D11N,D,11,N,uncertain significance,soluble subunit of a membrane complex,0.0883
+P38606,ATP6V1A,VAR_080995,P27R,P,27,R,uncertain significance,soluble subunit of a membrane complex,0.9894
+P38606,ATP6V1A,VAR_078606,G72D,G,72,D,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.7922
+P38606,ATP6V1A,VAR_080996,D100Y,D,100,Y,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9983
+P38606,ATP6V1A,VAR_080997,P249R,P,249,R,uncertain significance,soluble subunit of a membrane complex,0.9974
+P38606,ATP6V1A,VAR_078607,R338C,R,338,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9702
+P38606,ATP6V1A,VAR_080998,D349N,D,349,N,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9994
+P38606,ATP6V1A,VAR_080999,D371G,D,371,G,uncertain significance,soluble subunit of a membrane complex,0.9778
+P21281,ATP6V1B2,VAR_073962,R485P,R,485,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9974
+P36543,ATP6V1E1,VAR_036565,R50G,R,50,G,uncertain significance,soluble subunit of a membrane complex,0.9924
+P36543,ATP6V1E1,VAR_078604,L128P,L,128,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9479
+P36543,ATP6V1E1,VAR_078605,R212W,R,212,W,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9767
+Q16864,ATP6V1F,VAR_048348,G24V,G,24,V,benign or likely benign,soluble subunit of a membrane complex,0.9988
+P01185,AVP,VAR_004980,S17F,S,17,F,pathogenic or likely pathogenic,freely secreted peptide,0.4537
+P01185,AVP,VAR_004981,A19T,A,19,T,pathogenic or likely pathogenic,freely secreted peptide,0.4944
+P01185,AVP,VAR_004982,A19V,A,19,V,pathogenic or likely pathogenic,freely secreted peptide,0.726
+P01185,AVP,VAR_015262,Y21H,Y,21,H,pathogenic or likely pathogenic,freely secreted peptide,0.9431
+P01185,AVP,VAR_015263,P26L,P,26,L,pathogenic or likely pathogenic,freely secreted peptide,0.8212
+P01185,AVP,VAR_004983,G45R,G,45,R,pathogenic or likely pathogenic,freely secreted peptide,0.9386
+P01185,AVP,VAR_004984,G48V,G,48,V,pathogenic or likely pathogenic,freely secreted peptide,0.3169
+P01185,AVP,VAR_004985,R51C,R,51,C,pathogenic or likely pathogenic,freely secreted peptide,0.3877
+P01185,AVP,VAR_015264,C52R,C,52,R,pathogenic or likely pathogenic,freely secreted peptide,0.9895
+P01185,AVP,VAR_015265,G54R,G,54,R,pathogenic or likely pathogenic,freely secreted peptide,0.9662
+P01185,AVP,VAR_015266,G54V,G,54,V,pathogenic or likely pathogenic,freely secreted peptide,0.9764
+P01185,AVP,VAR_004986,P55L,P,55,L,pathogenic or likely pathogenic,freely secreted peptide,0.4206
+P01185,AVP,VAR_029997,C58F,C,58,F,pathogenic or likely pathogenic,freely secreted peptide,0.9739
+P01185,AVP,VAR_015267,C59R,C,59,R,pathogenic or likely pathogenic,freely secreted peptide,0.9772
+P01185,AVP,VAR_015268,C59Y,C,59,Y,pathogenic or likely pathogenic,freely secreted peptide,0.9803
+P01185,AVP,VAR_019273,V67A,V,67,A,pathogenic or likely pathogenic,freely secreted peptide,0.2059
+P01185,AVP,VAR_004988,E78G,E,78,G,pathogenic or likely pathogenic,freely secreted peptide,0.8726
+P01185,AVP,VAR_004989,L81P,L,81,P,pathogenic or likely pathogenic,freely secreted peptide,0.9076
+P01185,AVP,VAR_011894,P82L,P,82,L,benign or likely benign,freely secreted peptide,0.1109
+P01185,AVP,VAR_015269,S87F,S,87,F,pathogenic or likely pathogenic,freely secreted peptide,0.6038
+P01185,AVP,VAR_004990,G88R,G,88,R,pathogenic or likely pathogenic,freely secreted peptide,0.3883
+P01185,AVP,VAR_004991,G88S,G,88,S,pathogenic or likely pathogenic,freely secreted peptide,0.1789
+P01185,AVP,VAR_004992,C92S,C,92,S,pathogenic or likely pathogenic,freely secreted peptide,0.9546
+P01185,AVP,VAR_015270,C92Y,C,92,Y,pathogenic or likely pathogenic,freely secreted peptide,0.9565
+P01185,AVP,VAR_004993,G93W,G,93,W,pathogenic or likely pathogenic,freely secreted peptide,0.4536
+P01185,AVP,VAR_004994,G96C,G,96,C,pathogenic or likely pathogenic,freely secreted peptide,0.8655
+P01185,AVP,VAR_015271,G96V,G,96,V,pathogenic or likely pathogenic,freely secreted peptide,0.7194
+P01185,AVP,VAR_019274,G96D,G,96,D,pathogenic or likely pathogenic,freely secreted peptide,0.7681
+P01185,AVP,VAR_015272,R97C,R,97,C,pathogenic or likely pathogenic,freely secreted peptide,0.457
+P01185,AVP,VAR_015273,R97P,R,97,P,pathogenic or likely pathogenic,freely secreted peptide,0.7711
+P01185,AVP,VAR_015274,C98G,C,98,G,pathogenic or likely pathogenic,freely secreted peptide,0.872
+P01185,AVP,VAR_029998,C98S,C,98,S,pathogenic or likely pathogenic,freely secreted peptide,0.9727
+P01185,AVP,VAR_029999,A99P,A,99,P,pathogenic or likely pathogenic,freely secreted peptide,0.7533
+P01185,AVP,VAR_015275,C104F,C,104,F,pathogenic or likely pathogenic,freely secreted peptide,0.9129
+P01185,AVP,VAR_019275,C104G,C,104,G,pathogenic or likely pathogenic,freely secreted peptide,0.8455
+P01185,AVP,VAR_015276,C105R,C,105,R,pathogenic or likely pathogenic,freely secreted peptide,0.9642
+P01185,AVP,VAR_015279,C105Y,C,105,Y,pathogenic or likely pathogenic,freely secreted peptide,0.9853
+P01185,AVP,VAR_015277,C116G,C,116,G,pathogenic or likely pathogenic,freely secreted peptide,0.6524
+P01185,AVP,VAR_015278,C116R,C,116,R,pathogenic or likely pathogenic,freely secreted peptide,0.9261
+P01185,AVP,VAR_019276,C116W,C,116,W,pathogenic or likely pathogenic,freely secreted peptide,0.9078
+P01185,AVP,VAR_011895,G119V,G,119,V,benign or likely benign,freely secreted peptide,0.1062
+P06307,CCK,VAR_018818,G32E,G,32,E,benign or likely benign,freely secreted peptide,0.0692
+P06307,CCK,VAR_024452,R95W,R,95,W,benign or likely benign,freely secreted peptide,0.7978
+P78556,CCL20,VAR_011915,V47M,V,47,M,benign or likely benign,freely secreted peptide,0.1281
+P05305,EDN1,VAR_071152,V64D,V,64,D,pathogenic or likely pathogenic,freely secreted peptide,0.9771
+P05305,EDN1,VAR_071153,P77H,P,77,H,pathogenic or likely pathogenic,freely secreted peptide,0.8867
+P05305,EDN1,VAR_071154,K91E,K,91,E,pathogenic or likely pathogenic,freely secreted peptide,0.6003
+P05305,EDN1,VAR_048933,V186I,V,186,I,benign or likely benign,freely secreted peptide,0.0753
+P05305,EDN1,VAR_014188,K198N,K,198,N,benign or likely benign,freely secreted peptide,0.1517
+Q9Y3B6,EMC9,VAR_052532,A97V,A,97,V,benign or likely benign,soluble subunit of a membrane complex,0.426
+P01225,FSHB,VAR_012047,S20I,S,20,I,benign or likely benign,freely secreted peptide,0.1087
+P01225,FSHB,VAR_033015,C69G,C,69,G,pathogenic or likely pathogenic,freely secreted peptide,0.916
+P22466,GAL,VAR_049121,A16V,A,16,V,benign or likely benign,freely secreted peptide,0.1526
+P22466,GAL,VAR_074671,A39E,A,39,E,pathogenic or likely pathogenic,freely secreted peptide,0.98
+P01350,GAST,VAR_049127,R3P,R,3,P,benign or likely benign,freely secreted peptide,0.0902
+P01275,GCG,VAR_014596,A115V,A,115,V,benign or likely benign,freely secreted peptide,0.8418
+O43681,GET3,VAR_088104,V163A,V,163,A,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.956
+O43681,GET3,VAR_088105,C289W,C,289,W,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9975
+O43681,GET3,VAR_018844,N332S,N,332,S,benign or likely benign,soluble subunit of a membrane complex,0.0758
+P01286,GHRH,VAR_049185,Y32C,Y,32,C,benign or likely benign,freely secreted peptide,0.5204
+P01286,GHRH,VAR_024328,L75F,L,75,F,benign or likely benign,freely secreted peptide,0.0931
+P09681,GIP,VAR_021897,S103G,S,103,G,benign or likely benign,freely secreted peptide,0.0662
+P09681,GIP,VAR_033973,N146S,N,146,S,benign or likely benign,freely secreted peptide,0.0772
+Q14344,GNA13,VAR_017160,V221L,V,221,L,benign or likely benign,soluble subunit of a membrane complex,0.8932
+P63096,GNAI1,VAR_087204,G40C,G,40,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9998
+P63096,GNAI1,VAR_087205,G40R,G,40,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9999
+P63096,GNAI1,VAR_087206,G45D,G,45,D,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9999
+P63096,GNAI1,VAR_087207,T48I,T,48,I,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9998
+P63096,GNAI1,VAR_087208,T48K,T,48,K,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9996
+P63096,GNAI1,VAR_087209,Q52P,Q,52,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9996
+P63096,GNAI1,VAR_087212,D173V,D,173,V,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9991
+P63096,GNAI1,VAR_087214,C224Y,C,224,Y,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9987
+P63096,GNAI1,VAR_087215,K270N,K,270,N,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9999
+P63096,GNAI1,VAR_087216,K270R,K,270,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9495
+P63096,GNAI1,VAR_087217,D272G,D,272,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9983
+P63096,GNAI1,VAR_087218,A326P,A,326,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9981
+P63096,GNAI1,VAR_087219,V332E,V,332,E,uncertain significance,soluble subunit of a membrane complex,0.9983
+P08754,GNAI3,VAR_068558,G40R,G,40,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9999
+P08754,GNAI3,VAR_088775,G45S,G,45,S,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.999
+P08754,GNAI3,VAR_088776,S47N,S,47,N,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9987
+P08754,GNAI3,VAR_088777,S47R,S,47,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9995
+P38405,GNAL,VAR_069329,V16F,V,16,F,benign or likely benign,soluble subunit of a membrane complex,0.0991
+P38405,GNAL,VAR_069331,V137M,V,137,M,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.7863
+P38405,GNAL,VAR_069332,E155K,E,155,K,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.986
+P09471,GNAO1,VAR_075416,G40R,G,40,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9999
+P09471,GNAO1,VAR_087220,G40W,G,40,W,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9999
+P09471,GNAO1,VAR_079278,S47G,S,47,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9948
+P09471,GNAO1,VAR_087221,Q52P,Q,52,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9994
+P09471,GNAO1,VAR_087222,Q52R,Q,52,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.997
+P09471,GNAO1,VAR_079279,I56T,I,56,T,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9903
+P09471,GNAO1,VAR_070864,D174G,D,174,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9988
+P09471,GNAO1,VAR_070866,G203R,G,203,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9998
+P09471,GNAO1,VAR_077337,R209C,R,209,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9998
+P09471,GNAO1,VAR_079280,R209G,R,209,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9991
+P09471,GNAO1,VAR_079281,R209H,R,209,H,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9994
+P09471,GNAO1,VAR_079282,R209L,R,209,L,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9991
+P09471,GNAO1,VAR_077338,A227V,A,227,V,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9947
+P09471,GNAO1,VAR_077339,E246K,E,246,K,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9987
+P09471,GNAO1,VAR_079283,E246G,E,246,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9959
+P09471,GNAO1,VAR_070867,I279N,I,279,N,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9771
+P50148,GNAQ,VAR_067270,R183Q,R,183,Q,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.997
+P50148,GNAQ,VAR_067271,Q209L,Q,209,L,benign or likely benign,soluble subunit of a membrane complex,0.9925
+P50148,GNAQ,VAR_059319,E355D,E,355,D,benign or likely benign,soluble subunit of a membrane complex,0.3075
+Q5JWF2,GNAS,VAR_028777,A436D,A,436,D,benign or likely benign,soluble subunit of a membrane complex,0.0661
+Q5JWF2,GNAS,VAR_028779,P459R,P,459,R,benign or likely benign,soluble subunit of a membrane complex,0.1142
+Q5JWF2,GNAS,VAR_059656,R1023L,R,1023,L,benign or likely benign,soluble subunit of a membrane complex,0.9875
+P62873,GNB1,VAR_078279,L30F,L,30,F,uncertain significance,soluble subunit of a membrane complex,0.5533
+P62873,GNB1,VAR_078280,R52G,R,52,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9949
+P62873,GNB1,VAR_078281,G64V,G,64,V,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9256
+P62873,GNB1,VAR_076643,D76G,D,76,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9998
+P62873,GNB1,VAR_076644,D76E,D,76,E,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9997
+P62873,GNB1,VAR_076645,G77S,G,77,S,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9988
+P62873,GNB1,VAR_076646,K78R,K,78,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.7364
+P62873,GNB1,VAR_076647,I80N,I,80,N,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9993
+P62873,GNB1,VAR_076648,I80T,I,80,T,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9988
+P62873,GNB1,VAR_078282,H91R,H,91,R,uncertain significance,soluble subunit of a membrane complex,0.9562
+P62873,GNB1,VAR_078283,A92T,A,92,T,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9646
+P62873,GNB1,VAR_078284,P94S,P,94,S,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.977
+P62873,GNB1,VAR_076649,L95P,L,95,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9998
+P62873,GNB1,VAR_078285,R96L,R,96,L,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9919
+P62873,GNB1,VAR_076650,M101V,M,101,V,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9978
+P62873,GNB1,VAR_078286,A106T,A,106,T,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9297
+P62873,GNB1,VAR_078287,D118G,D,118,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9995
+P62873,GNB1,VAR_076651,A326T,A,326,T,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.8921
+P62873,GNB1,VAR_078288,K337Q,K,337,Q,uncertain significance,soluble subunit of a membrane complex,0.9386
+P07492,GRP,VAR_027834,R4S,R,4,S,benign or likely benign,freely secreted peptide,0.2105
+Q9Y5Q6,INSL5,VAR_046099,Q50L,Q,50,L,benign or likely benign,freely secreted peptide,0.0532
+P01189,POMC,VAR_010699,S7T,S,7,T,benign or likely benign,freely secreted peptide,0.1004
+P01189,POMC,VAR_010700,S9L,S,9,L,benign or likely benign,freely secreted peptide,0.1375
+P01189,POMC,VAR_029762,P62L,P,62,L,benign or likely benign,freely secreted peptide,0.142
+P01189,POMC,VAR_010715,D106N,D,106,N,benign or likely benign,freely secreted peptide,0.0969
+P01189,POMC,VAR_029314,P132A,P,132,A,benign or likely benign,freely secreted peptide,0.068
+P01189,POMC,VAR_010716,E214G,E,214,G,benign or likely benign,freely secreted peptide,0.0798
+P01189,POMC,VAR_010701,R236G,R,236,G,benign or likely benign,freely secreted peptide,0.8352
+P01189,POMC,VAR_012201,R236Q,R,236,Q,benign or likely benign,freely secreted peptide,0.5459
+P01298,PPY,VAR_050615,E78G,E,78,G,benign or likely benign,freely secreted peptide,0.0756
+P61586,RHOA,VAR_083545,E47K,E,47,K,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.7465
+P61586,RHOA,VAR_083546,P71S,P,71,S,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9894
+P31040,SDHA,VAR_049214,F33V,F,33,V,benign or likely benign,soluble subunit of a membrane complex,0.1954
+P31040,SDHA,VAR_049215,D38V,D,38,V,benign or likely benign,soluble subunit of a membrane complex,0.1537
+P31040,SDHA,VAR_074022,C189G,C,189,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.7974
+P31040,SDHA,VAR_049216,E240Q,E,240,Q,benign or likely benign,soluble subunit of a membrane complex,0.8499
+P31040,SDHA,VAR_059307,V333I,V,333,I,benign or likely benign,soluble subunit of a membrane complex,0.0906
+P31040,SDHA,VAR_085584,R451C,R,451,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9989
+P31040,SDHA,VAR_085396,T508I,T,508,I,benign or likely benign,soluble subunit of a membrane complex,0.8515
+P31040,SDHA,VAR_085397,S509L,S,509,L,uncertain significance,soluble subunit of a membrane complex,0.622
+P31040,SDHA,VAR_016878,A524V,A,524,V,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9532
+P31040,SDHA,VAR_002449,R554W,R,554,W,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.6806
+P31040,SDHA,VAR_016879,G555E,G,555,E,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9351
+P31040,SDHA,VAR_065975,R589W,R,589,W,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9934
+P31040,SDHA,VAR_071037,Y629F,Y,629,F,benign or likely benign,soluble subunit of a membrane complex,0.0719
+P31040,SDHA,VAR_049217,V657I,V,657,I,benign or likely benign,soluble subunit of a membrane complex,0.0877
+P21912,SDHB,VAR_054374,A3G,A,3,G,uncertain significance,soluble subunit of a membrane complex,0.1177
+P21912,SDHB,VAR_054375,K40E,K,40,E,benign or likely benign,soluble subunit of a membrane complex,0.9303
+P21912,SDHB,VAR_054376,A43P,A,43,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9583
+P21912,SDHB,VAR_035064,R46G,R,46,G,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9937
+P21912,SDHB,VAR_054377,R46Q,R,46,Q,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9264
+P21912,SDHB,VAR_085398,D48V,D,48,V,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.5538
+P21912,SDHB,VAR_054378,G53R,G,53,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.3322
+P21912,SDHB,VAR_054379,L65H,L,65,H,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9515
+P21912,SDHB,VAR_054380,L65P,L,65,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9654
+P21912,SDHB,VAR_018517,L87S,L,87,S,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9962
+P21912,SDHB,VAR_037620,S100F,S,100,F,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.996
+P21912,SDHB,VAR_035065,C101Y,C,101,Y,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9992
+P21912,SDHB,VAR_085399,A102T,A,102,T,uncertain significance,soluble subunit of a membrane complex,0.9179
+P21912,SDHB,VAR_085400,M103T,M,103,T,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9628
+P21912,SDHB,VAR_054381,I127N,I,127,N,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9931
+P21912,SDHB,VAR_018518,P131R,P,131,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9817
+P21912,SDHB,VAR_037621,H132P,H,132,P,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9681
+P21912,SDHB,VAR_054382,S163P,S,163,P,uncertain significance,soluble subunit of a membrane complex,0.1363
+P21912,SDHB,VAR_035066,C192R,C,192,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9993
+P21912,SDHB,VAR_035067,C196Y,C,196,Y,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9993
+P21912,SDHB,VAR_017868,P197R,P,197,R,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9913
+P21912,SDHB,VAR_054383,R230C,R,230,C,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9639
+P21912,SDHB,VAR_085401,R230H,R,230,H,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.8637
+P21912,SDHB,VAR_017869,R242H,R,242,H,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.8428
+P21912,SDHB,VAR_085402,L257V,L,257,V,pathogenic or likely pathogenic,soluble subunit of a membrane complex,0.9009
+Q9UHF0,TAC3,VAR_069969,R80S,R,80,S,pathogenic or likely pathogenic,freely secreted peptide,0.896
+Q9UHF0,TAC3,VAR_069176,M90T,M,90,T,pathogenic or likely pathogenic,freely secreted peptide,0.9002
+P01222,TSHB,VAR_054769,T14A,T,14,A,benign or likely benign,freely secreted peptide,0.0528
+P01222,TSHB,VAR_087376,T73P,T,73,P,pathogenic or likely pathogenic,freely secreted peptide,0.61
